@@ -1,11 +1,11 @@
-A Z lose
-C X win
-A Z lose
-A Z lose
-C Y lose
-C Y lose
-A Z lose
-A Y 
+A Z
+C X
+A Z 
+A Z
+C Y
+C Y
+A Z
+A Y
 C Y
 A Y
 A Z
